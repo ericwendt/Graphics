@@ -4,7 +4,10 @@
 Q: How do you scale textures that are mapped to an object in unreal?  -E
 	A: The reason this question was asked was because of a carpet texture made by wines. I applied it to 		   a surface in unreal, but it was scaled so large that the carpet would look bigger than it should.
 	   I believe this is more of an unreal engine issue than a photoeditor. Here is what I found:
-	   https://answers.unrealengine.com/questions/185530/ue4-starter-material-textures-very-large-on-           import.html
-
+	   https://answers.unrealengine.com/questions/185530/ue4-starter-material-textures-very-large-on-     	   import.html 
+        A2:right click on the material instance of the texture in UE4, edit it, you will be taken into 
+	   another editing panel, right click on an empty space, type in "TextureCoordinate" and connect
+	   it to the material. This will now allow you to change the UV's.
+	      
 
 Q:
