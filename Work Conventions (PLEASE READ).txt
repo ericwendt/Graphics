@@ -2,3 +2,7 @@ Running list of any conventions or standards to use while working in this repo:
 
 -name any resource taken from the internet with  "_int" at the end i.e. "picture1_int"
 	this will help us differentiate for copyright purposes
+
+-present things in an easily understandable fashion for the sake of others
+
+-write clean, consistent code
