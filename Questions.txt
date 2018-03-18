@@ -10,4 +10,4 @@ Q: How do you scale textures that are mapped to an object in unreal?  -E
 	   it to the material. This will now allow you to change the UV's.
 	      
 
-Q:
+Q:What is rigging?
