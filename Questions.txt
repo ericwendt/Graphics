@@ -12,4 +12,5 @@ Q: How do you scale textures that are mapped to an object in unreal?  -E
 
 Q:What is rigging?
 S
+a
 
