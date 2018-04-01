@@ -15,4 +15,4 @@ Rigging is the process of adding joints and moveable areas to skeletal meshes in
 
 i.e.
 making a moveable shoulder joint
-
+d
